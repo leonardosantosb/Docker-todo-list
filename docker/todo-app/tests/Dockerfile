@@ -7,5 +7,5 @@ COPY . .
 
 ENTRYPOINT [ "npm" ]
 
-CMD [ "start" ]
+CMD [ "test" ]
 
